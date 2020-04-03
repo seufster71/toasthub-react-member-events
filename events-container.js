@@ -32,7 +32,6 @@ class EventsContainer extends Component {
 EventsContainer.propTypes = {
 	appPrefs: PropTypes.object,
 	lang: PropTypes.string,
-	appGlobal: PropTypes.object,
 	actions: PropTypes.object
 };
 
